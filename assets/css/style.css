@@ -20,6 +20,9 @@ body {
     max-height: 80px;
     background-color: white;
     font-size: 100px;
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
+    border-bottom-color: #423646;
 }
 
 .navigation .navbar-brand {
@@ -42,7 +45,7 @@ body {
 
 .dropdown .dropdown-menu .dropdown-item:active,
 .dropdown .dropdown-menu .dropdown-item:hover {
-    background-color: #f0ea4b !important;
+    background-color: #949aaa !important;
 }
 
 .nav-link:hover {
@@ -119,14 +122,14 @@ p {
 /* Footer */
 
 footer {
-    background-color: #b77605;
+    background-color: #b58e4b;
     border-top-style: solid;
     border-top-width: 5px;
     border-top-color: #423646;
     color: black;
     min-height: 60px;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 12px;
+    font-size: 20px;
     text-align: center;
     position: fixed;
     left: 0;
@@ -140,7 +143,7 @@ footer {
 
 @media(max-width: 992px) {
     .navbar-expand-lg {
-        background-color: #b77605 !important;
+        background-color: rgb(48, 47, 46) !important;
     }
     .navbar {
         max-height: none;
