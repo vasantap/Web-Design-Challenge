@@ -1,5 +1,5 @@
 # Web-Design-Challenge
-Web design using HTML, CSS and JS
+Web design using HTML, CSS , JS and Bootstrap
 
 ## Link to the Project webpages https://vasantap.github.io/Web-Design-Challenge/
 Data is more powerful when we share it with others! Let's use what we've learned about HTML and CSS to create a dashboard featuring the analysis.
